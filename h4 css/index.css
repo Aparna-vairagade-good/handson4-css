@@ -1,0 +1,245 @@
+.div{
+    width: 1429px;
+    height: 32px;
+    border:0px solid ;
+    text-align: center;
+    background-color: lightgrey;
+     background-image: linear-gradient(45deg, red,green,yellow);
+        text-decoration: underline crimson;
+        font-size: small;
+        margin: -32px;
+}
+.div1{
+    border: 3px solid red;
+    background-color: lightblue;
+    border-radius: 20px;
+    color: black;
+    width: 786px;
+    height: 70px;
+    text-align: center;
+    padding: 0px;
+    padding-right: 52px;
+    margin: 118px;
+    position: absolute;
+    top: -44px;
+     
+}
+.parent{
+    border: 2px solid gray;
+    background-color: aquamarine;
+    border-radius: 20px;
+    width: 1429px;
+    height: 165px;
+    position: absolute;
+    top: 164px;
+    left: 1px;
+}
+.div2{
+    border: 3px solid green;
+    background-color: aqua;
+    border-radius: 8px;
+    position: absolute;
+    width: 407px;
+    height: 80px;
+    top: 0px;
+    left: 50px;
+    text-align: center;
+}
+
+.div3{
+    border: 3px solid green;
+    background-color: aqua;
+    border-radius: 8px;
+    position: absolute;
+    width: 407px;
+    height: 80px;
+    top: 0px;
+    left: 489px;
+    text-align: center;
+}
+.div4{
+    border: 3px solid green;
+    background-color: aqua;
+    border-radius: 8px;
+    position: absolute;
+    width: 407px;
+    height: 80px;
+    top: 80px;
+    left: 489px;
+    text-align: center;
+
+}
+.div5{
+    border: 3px solid green;
+    background-color: aqua;
+    border-radius: 8px;
+    position: absolute;
+    width: 407px;
+    height: 80px;
+    top: 0px;
+    left: 948px;
+    text-align: center;
+}
+.div6{
+    width: 1429px;
+    height: 42px;
+    border: opx solid;
+    text-align: center;
+    background-color: lightgray;
+    background-image: linear-gradient(45deg,red,yellow,red);
+    text-decoration: underline crimson;
+    position: absolute;
+    top: 351px;
+    font-size: smaller;
+    left: 1px;
+}
+.parent2{
+    border: 2px solid green;
+    background-image: radial-gradient(blue,green);
+    width: 1429px;
+    height: 165px;
+    position: absolute;
+    top: 400px;
+    left: 1px;
+}
+.div7{
+    border: 2px solid red;
+    background-color: yellow;
+    border-radius: 15px;
+    text-align: center;
+    font-size: small;
+    text-decoration: underline crimson;
+    width: 211px;
+    height: 88px;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    font-weight: bold;
+}
+.div8{
+    border: 2px solid red;
+    background-color: yellow;
+    border-radius: 15px;
+    text-align: center;
+    font-size: small;
+    text-decoration: underline crimson;
+    width: 211px;
+    height: 88px;
+    position: absolute;
+    top: 50px;
+    left: 425px;
+    font-weight: bold;
+}
+.div9{
+    border: 2px solid red;
+    background-color: yellow;
+    border-radius: 15px;
+    text-align: center;
+    font-size: small;
+    text-decoration: underline crimson;
+    width: 211px;
+    height: 88px;
+    position: absolute;
+    top: 50px;
+    left: 730px;
+    font-weight: bold;
+}
+.div10{
+    border: 2px solid red;
+    background-color: yellow;
+    border-radius: 15px;
+    text-align: center;
+    font-size: small;
+    text-decoration: underline crimson;
+    width: 211px;
+    height: 88px;
+    position: absolute;
+    top: 50px;
+    left: 1000px;
+    font-weight: bold;
+}
+.div11{
+width: 1429px;
+height: 34px;
+text-align: center;
+background-color: red;
+margin:589px ;
+font-size: x-small;
+position: absolute;
+left: -587px;
+}
+.div12{
+    border: 1px solid lightgreen;
+    width: 380px;
+    height: 84px;
+    background-color: lightgreen;
+    position: absolute;
+    top: 662px;
+    left: 1px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+.div13{
+    border: 1px solid blue;
+    width: 380px;
+    height: 84px;
+    background-color: blue;
+    position: absolute;
+    top: 662px;
+    left: 421px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+.div14{
+    border: 1px solid darkblue;
+    width: 380px;
+    height: 84px;
+    background-color: darkblue;
+    position: absolute;
+    top: 662px;
+    left: 840px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+.div15{
+    border: 1px solid black;
+    width: 150px;
+    height: 250px;
+    background-color: black;
+    position: absolute;
+    top: 662px;
+    left: 1278px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline white;
+}
+.div16{
+    border: 1px solid orange;
+    width: 1220px;
+    height: 146px;
+    background-color: orange;
+    position: absolute;
+    top: 763px;
+    left: 1px;
+    text-align: center;
+    font-size: small;
+
+}
+.div17{
+    width: 1429px;
+    height: 34px;
+    text-align: center;
+    background-color: aqua;
+    margin: 325px;
+    font-size: x-small;
+    position: absolute;
+    left: -323px;
+    top: 601px;
+    font-style: revert;
+}
+
+
